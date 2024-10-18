@@ -6,11 +6,11 @@ As a fourth-year Computing Science student at the University of Alberta, I am dr
 
 ## 🚀 What I'm Up To
 
--   📷 Building a comment analysis tool for youtubers [youtubeNLP](https://github.com/MastrMatt/youtubeNLP) 📷
--   💰 Making money on the stock market [AI Trading Bot](https://github.com/MastrMatt/AITradingBot) 💰
--   💾 Building a key-value database from scratch in C [liteDB](https://github.com/MastrMatt/liteDB) 💾
--   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/MastrMatt/social-unrest-modeling) 📈
--   🎮 Relaxing by playing pacman with friends [Pacman Multiplayer](https://github.com/MastrMatt/PacPlatform) 🎮
+-   📷 Building a comment analysis tool for youtubers [youtubeNLP](https://github.com/MastrMatt/youtubeNLP) 
+-   💰 Making money on the stock market [AI Trading Bot](https://github.com/MastrMatt/AITradingBot) 
+-   💾 Building a key-value database from scratch in C [liteDB](https://github.com/MastrMatt/liteDB) 
+-   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/MastrMatt/social-unrest-modeling) 
+-   🎮 Relaxing by playing pacman with friends [Pacman Multiplayer](https://github.com/MastrMatt/PacPlatform) 
 
 Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
 
