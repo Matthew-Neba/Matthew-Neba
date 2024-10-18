@@ -6,11 +6,11 @@ As a fourth-year Computing Science student at the University of Alberta, I am dr
 
 ## 🚀 What I'm Up To
 
--   Building a comment analysis tool for youtubers [youtubeNLP](https://github.com/MastrMatt/youtubeNLP)
--   Making money on the stock market [AI Trading Bot](https://github.com/MastrMatt/AITradingBot)
--   Building a key-value database from scratch in C [liteDB](https://github.com/MastrMatt/liteDB)
--   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/MastrMatt/social-unrest-modeling)
--   Relaxing by playing pacman with friends [Pacman Multiplayer](https://github.com/MastrMatt/PacPlatform)
+-   📷 Building a comment analysis tool for youtubers [youtubeNLP](https://github.com/MastrMatt/youtubeNLP) 📷
+-   💰 Making money on the stock market [AI Trading Bot](https://github.com/MastrMatt/AITradingBot) 💰
+-   💾 Building a key-value database from scratch in C [liteDB](https://github.com/MastrMatt/liteDB) 💾
+-   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/MastrMatt/social-unrest-modeling) 📈
+-   🎮 Relaxing by playing pacman with friends [Pacman Multiplayer](https://github.com/MastrMatt/PacPlatform) 🎮
 
 Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
 
@@ -55,6 +55,12 @@ Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+  <a href="https://www.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Developer Tools:</h3>
@@ -76,6 +82,18 @@ Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
 
@@ -107,5 +125,14 @@ Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket.io" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" alt="websockets" width="40" height="40"/>
   </a>
 </p>
