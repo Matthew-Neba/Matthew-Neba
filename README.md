@@ -6,17 +6,18 @@ As a fourth-year Computing Science student at the University of Alberta, I am dr
 
 ## 🚀 What I'm Up To
 
--   📷 Building a comment analysis tool for youtubers [youtubeNLP](https://github.com/matthew-neba/youtubeNLP) 
+-   📷 Building a comment analysis website for youtubers [youtubeNLP](https://github.com/matthew-neba/youtubeNLP)
+-   🎮 Relaxing by playing pacman online with friends [Pacman Multiplayer](https://github.com/matthew-neba/PacPlatform) 
 -   💰 Making money on the stock market [AI Trading Bot](https://github.com/matthew-neba/AITradingBot) 
 -   💾 Building a key-value database from scratch in C [liteDB](https://github.com/matthew-neba/liteDB) 
 -   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/matthew-neba/social-unrest-modeling) 
--   🎮 Relaxing by playing pacman with friends [Pacman Multiplayer](https://github.com/matthew-neba/PacPlatform) 
+
 
 Check out my [coding portfolio!](https://portfolio.mastrmatt.com/)
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-neba-bb9555273/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-neba)
 
 # 💻 Tech Stack:
 
