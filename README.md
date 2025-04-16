@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-As a Computing Science student at the University of Alberta, I am driven to delve into the diverse aspects of programming and computer science. My interests span across web development, AI, systems programming and statistical analysis.
+As a Computing Science student at the University of Alberta, I am driven to delve into the diverse aspects of programming and computer science. My interests span across web development, AI, data analysis and statistical analysis.
 
 ## 🚀 What I'm Up To
 
