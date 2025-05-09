@@ -2,14 +2,13 @@
 
 # 💫 About Me:
 
-As a Computing Science student at the University of Alberta, I am driven to delve into the diverse aspects of programming and computer science. My interests span across web development, AI, data analysis and statistical analysis.
-
+As a Computing Science student at the University of Alberta ... blah blah blah. I just really like software. From web development to Artificial Intelligence and Statistical Analysis.
 ## 🚀 What I'm Up To
 
--   📷 Building a comment analysis website for youtubers [youtubeNLP](https://github.com/matthew-neba/youtubeNLP)
--   🎮 Relaxing by playing pacman online with friends [Pacman Multiplayer](https://github.com/matthew-neba/PacPlatform) 
--   💰 Making money on the stock market [AI Trading Bot](https://github.com/matthew-neba/AITradingBot) 
--   💾 Building a key-value database from scratch in C [liteDB](https://github.com/matthew-neba/liteDB) 
+-   📷 Building a comment analysis website for YouTubers to see just how hard their haters are really hating [youtubeNLP](https://github.com/matthew-neba/youtubeNLP), 
+-   🎮 Chronically Procrastinating by playing pacman online with friends [Pacman Multiplayer](https://github.com/matthew-neba/PacPlatform) 
+-   💰 Making money on the stock market [AI Trading Bot](https://github.com/matthew-neba/AITradingBot), albeit not very sucessfully
+-   💾 Building a key-value database from scratch in C [liteDB](https://github.com/matthew-neba/liteDB), atleast it's not assembly
 -   📈 Applying statistical analysis to real-world problems [predicting protests in Canada](https://github.com/matthew-neba/social-unrest-modeling) 
 
 
