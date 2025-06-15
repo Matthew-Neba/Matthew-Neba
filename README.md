@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-As a Computing Science student at the University of Alberta ... blah blah blah. I just really like software. From web development to Artificial Intelligence and Statistical Analysis.
+I like software. From web development to Artificial Intelligence and Statistical Analysis.
 ## 🚀 What I'm Up To
 
 -   📷 Building a comment analysis website for YouTubers to see just how hard their haters are really hating [youtubeNLP](https://github.com/matthew-neba/youtubeNLP), 
