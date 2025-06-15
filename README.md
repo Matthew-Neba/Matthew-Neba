@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I like software. From web development to Artificial Intelligence and Statistical Analysis.
+I like software. From Web Development to Artificial Intelligence and Statistical Analysis.
 ## 🚀 What I'm Up To
 
 -   📷 Building a comment analysis website for YouTubers to see just how hard their haters are really hating [youtubeNLP](https://github.com/matthew-neba/youtubeNLP), 
