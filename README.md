@@ -3,7 +3,7 @@
   # About Me
 
   I like software, from web development to artificial intelligence and statistical analysis. Recently, I have been especially interested in fast reinforcement learning:
-  building high-performance simulators in C, C++, and CUDA so RL agents can learn from many more environment steps in less time.
+  building high-performance simulators in C, C++, and CUDA so RL agents can learn from many more environment steps in less time. I have recently seen the power of RL (miss me with LLM RL) and wish to harness some of it. Here is an example from my twitter acount: [laser-puzzle](https://x.com/matthew_neba/status/2072584048262938771)
 
   ## What I'm Up To
 
