@@ -14,11 +14,8 @@
 
   Check out my [coding portfolio](https://portfolio.mastrmatt.com/).
 
-  ## Connect with me
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-neba)
-
-  # Tech Stack
+  
+  # Favorite Languages
 
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
