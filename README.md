@@ -7,7 +7,7 @@
 
   ## What I'm Up To
 
-  - Building fast conformer generation tools for molecular simulation and reinforcement learning [conformer generation](https://github.com/Matthew-Neba/conformer_generation).
+  - Building a fast conformer generation reinforcement learning environment [conformer generation](https://github.com/Matthew-Neba/conformer_generation).
   - Applying reinforcement learning to electric grid optimization.
   - Making money on the stock market with an [AI Trading Bot](https://github.com/matthew-neba/AITradingBot), albeit not very successfully.
   - Building a key-value database from scratch in C: [liteDB](https://github.com/matthew-neba/liteDB).
